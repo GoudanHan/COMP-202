@@ -1,0 +1,1 @@
+In the construct_patient.py, I don't know if I am doing right for the temperature_switch function because the pdf file seems a little bit hard for me to understand. But I get the right result according to the dockets and the output files.
