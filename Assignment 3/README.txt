@@ -1,0 +1,3 @@
+In my code, the count_stv function still has flaw which makes it unable to draw the png picture in Part 5. But I don't know how to debug it. 
+
+Also, the format of my count_SL function is a little bit too complicated but I cannot think of any better way to make it simpler. In the end of my count_SL function, I use an if-break to stop the loop but I'm not sure if it's gonna work for the Part 5 because my count_stv is wrong and I don't get to check my count_SL.
